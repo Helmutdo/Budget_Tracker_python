@@ -1,0 +1,13 @@
+{
+    "initial_budget": 1000.0,
+    "expenses": [
+        {
+            "description": "TRAVEL",
+            "amount": 150.0
+        },
+        {
+            "description": "TECH",
+            "amount": 60.0
+        }
+    ]
+}
